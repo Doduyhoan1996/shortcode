@@ -16,7 +16,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "thunderer/shortcode": "0.5.*"
+    "illuminate/container": "5.1.*",
+    "illuminate/support": "5.1.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4",
